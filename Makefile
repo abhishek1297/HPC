@@ -1,0 +1,5 @@
+CC=nvc
+CFLAGS=
+
+all:
+	
